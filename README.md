@@ -18,5 +18,6 @@ if you dont have **python** go to https://www.python.org/
     git clone https://github.com/mihkostas/joyst
 
 **run joyst**
-  
+    
+    cd joyst
     python joyst.py
