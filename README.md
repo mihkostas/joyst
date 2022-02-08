@@ -13,6 +13,10 @@ if you dont have **python** go to https://www.python.org/
     pip install pynput
     pip install pygame
 
-**install joyst**
+**install joyst:**
 
     git clone https://github.com/mihkostas/joyst
+
+**run joyst**
+  
+    python joyst.py
