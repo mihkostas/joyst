@@ -1,4 +1,4 @@
 # joyst
-dependencies:
+Dependencies:
   - pynput
   - pygame
