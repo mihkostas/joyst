@@ -1,11 +1,11 @@
 # joyst
+control your mouse with a gamepad (ps one classic tested).
+
 Dependencies:
   - python
   - pynput
   - pygame
  
-control your mouse with a gamepad (ps one classic tested).
-
 **install Dependencies**:
 
 if you dont have python go to https://www.python.org/
