@@ -12,4 +12,4 @@ control your mouse with a gamepad (ps one classic tested).
 
 **install joyst**
 
-    git clone 
+    git clone https://github.com/mihkostas/joyst
