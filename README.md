@@ -1,5 +1,5 @@
 # joyst
-control your mouse with a gamepad (ps one classic tested).
+Control your mouse with a gamepad (ps one classic tested).
 
 Dependencies:
   - python
