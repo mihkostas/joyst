@@ -5,4 +5,4 @@ Dependencies:
  
 control your mouse with a gamepad (ps one classic tested).
 
-#install
+**install**
